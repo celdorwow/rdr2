@@ -1,44 +1,44 @@
 
 # Table of Contents
 
-1.  [Always save your progress](#org45b1b72)
-2.  [Early progression](#org515e230)
-    1.  [Find gold bars](#orgb5c3d4c)
-        1.  [Treasure maps](#org091f391)
-        2.  [Hidden places](#orgb75f55d)
-        3.  [Extra gold bar after chapter 3](#org16ecd8e)
-    2.  [Tame Arabian](#org2af1c37)
-    3.  [Get following weapons for free](#orga132b67)
-        1.  [Schofield Revolver](#org03837f7)
-        2.  [Semi-Auto Shotgun](#org6462245)
-        3.  [Lancaster Repeater](#org762655c)
-        4.  [Double Action Revolver](#org9f62f33)
-        5.  [Bolt Action Rifle](#org02dc6c3)
-        6.  [Rare Shotgun (Double Barrel Shotgun)](#org8c49755)
-        7.  [Rolling Block Rifle](#orgb5a8eca)
-        8.  [Off-hand holster](#org0629aee)
-    4.  [Get the Legend of the East satchel](#org30bff46)
-    5.  [Get trinkets: Buck Antler and Elk Antler](#orgcffd28d)
-        1.  [Buck Antler Trinket](#orgfd060c9)
-        2.  [Elk Antler Trinket](#org5d2ff1d)
-    6.  [Use Valerian Root tonic](#org1a84f06)
-    7.  [Get Miner Hat and Wide-Blade Knife](#orge45a702)
-    8.  [The Pearson's Scout Jacket](#org4f44d70)
-3.  [A few tips](#orge32c202)
-    1.  [Horse Revivers](#org6b00aac)
-    2.  [Increase capacity for ammunition](#org009d04c)
-    3.  [Train robbery](#org80479a6)
-    4.  [Talismans and Trinkets](#orgc775713)
-    5.  [Hunting perfect pelts from cougars and panthers](#org7744343)
-    6.  [Fishing](#orgba32434)
-    7.  [Honour](#org5e9ad01)
-    8.  [Other general tips](#orgffcb6f9)
-4.  [End game and things to do before the end of Chapter 6 (Spoilers)](#orgc9d0758)
-    1.  [Cash and valuable items](#org2229a95)
-    2.  [Horses](#orgaf9b0b9)
-    3.  [Satchels](#org0db317d)
-    4.  [Four variants of the end of Chapter 6](#orgbba1c36)
-    5.  [How to pass Arthur's cash to John](#org4281ea3)
+1.  [Always save your progress](#org002291d)
+2.  [Early progression](#org47f4a95)
+    1.  [Find gold bars](#org3029b4e)
+        1.  [Treasure maps](#orga7b9e60)
+        2.  [Hidden places](#org13deaf1)
+        3.  [Extra gold bar after chapter 3](#org6a94fd6)
+    2.  [Tame Arabian](#orgfd2e829)
+    3.  [Get following weapons for free](#org6a9496d)
+        1.  [Schofield Revolver](#orgadbf596)
+        2.  [Semi-Auto Shotgun](#org03448a7)
+        3.  [Lancaster Repeater](#orgf228ffc)
+        4.  [Double Action Revolver](#orge30e6ae)
+        5.  [Bolt Action Rifle](#org27eabd8)
+        6.  [Rare Shotgun (Double Barrel Shotgun)](#org893488e)
+        7.  [Rolling Block Rifle](#orgbb7720d)
+        8.  [Off-hand holster](#org08ba49c)
+    4.  [Get the Legend of the East satchel](#org226bf9c)
+    5.  [Get trinkets: Buck Antler and Elk Antler](#org83bd100)
+        1.  [Buck Antler Trinket](#org2ccc594)
+        2.  [Elk Antler Trinket](#org9718b65)
+    6.  [Use Valerian Root tonic](#orgdf1d11f)
+    7.  [Get Miner Hat and Wide-Blade Knife](#org926e037)
+    8.  [The Pearson's Scout Jacket](#org5ef17b1)
+3.  [A few tips](#orgc1ed05b)
+    1.  [Horse Revivers](#org339cbc4)
+    2.  [Increase capacity for ammunition](#org7393be9)
+    3.  [Train robbery](#org6a10cfd)
+    4.  [Talismans and Trinkets](#orgf3eb28c)
+    5.  [Hunting perfect pelts from cougars and panthers](#org4324818)
+    6.  [Fishing](#orgf2a82e9)
+    7.  [Honour](#org5f23f09)
+    8.  [Other general tips](#orgcb0adca)
+4.  [End game and things to do before the end of Chapter 6 (Spoilers)](#org4ed2d0f)
+    1.  [Cash and valuable items](#org6071b46)
+    2.  [Horses](#org6a51dd3)
+    3.  [Satchels](#org6b8b897)
+    4.  [Four variants of the end of Chapter 6](#orga9bca85)
+    5.  [How to pass Arthur's cash to John](#orgf7fb960)
 
 Hello,
 
@@ -52,7 +52,7 @@ The content is based on information I found in internet but some details are pro
 I hope you find this post useful.
 
 
-<a id="org45b1b72"></a>
+<a id="org002291d"></a>
 
 # Always save your progress
 
@@ -66,7 +66,7 @@ Otherwise, I would lose my horse permanently.
 Do save the game regularly if you plan to complete challenges.
 
 
-<a id="org515e230"></a>
+<a id="org47f4a95"></a>
 
 # Early progression
 
@@ -75,7 +75,7 @@ Here's a list of things I believe will improve everyone's progress.
 Some of them are borrowed from [this video](https://www.youtube.com/watch?v=FqBDge3h46U), which I also recommend to watch.
 
 
-<a id="orgb5c3d4c"></a>
+<a id="org3029b4e"></a>
 
 ## Find gold bars
 
@@ -88,7 +88,7 @@ I didn't care to search for the last one.
 If you do, see this website: [All Gold Bar Locations in Red Dead Redemption.](https://progameguides.com/red-dead-redemption/all-gold-bar-locations-in-red-dead-redemption-2/)
 
 
-<a id="org091f391"></a>
+<a id="orga7b9e60"></a>
 
 ### Treasure maps
 
@@ -101,7 +101,7 @@ You should be able to complete every one of them very early:
 -   the Landmark of Riches Treasure Map: 6 gold bars.
 
 
-<a id="orgb75f55d"></a>
+<a id="org13deaf1"></a>
 
 ### Hidden places
 
@@ -131,7 +131,7 @@ Inside you find 7 male statues surrounding the one in the middle with wings that
 Here is [the link](https://www.ign.com/wikis/red-dead-redemption-2/The_Strange_Statue_Puzzle) to a website about how to solve the puzzle.
 
 
-<a id="org16ecd8e"></a>
+<a id="org6a94fd6"></a>
 
 ### Extra gold bar after chapter 3
 
@@ -144,7 +144,7 @@ Here the map to this location:
 ![img](https://oyster.ignimgs.com/mediawiki/apis.ign.com/red-dead-redemption-2/a/a5/Red_Dead_Redemption_2_20181029151456.jpg?width=1024 "Location in Braithwaite Manor (credits to IGN)")
 
 
-<a id="org2af1c37"></a>
+<a id="orgfd2e829"></a>
 
 ## Tame Arabian
 
@@ -161,12 +161,12 @@ For this reason, save you current progress ****somewhere outside the Lake Isabel
 *Ewing Basic* is far enough, although [this video](https://www.youtube.com/watch?v=FqBDge3h46U) suggests *Barrow Lagoon* to the east of *Lake Isabella*.
 
 
-<a id="orga132b67"></a>
+<a id="org6a9496d"></a>
 
 ## Get following weapons for free
 
 
-<a id="org03837f7"></a>
+<a id="orgadbf596"></a>
 
 ### Schofield Revolver
 
@@ -175,7 +175,7 @@ After that, you will be able to rob him.
 The Schofield Revolver is inside a box on the table. 
 
 
-<a id="org6462245"></a>
+<a id="org03448a7"></a>
 
 ### Semi-Auto Shotgun
 
@@ -184,7 +184,7 @@ You can collect a shotgun from a box in the basement.
 There's also a female Hermit, who holds half of the treasure map leading to a unique weapon.
 
 
-<a id="org762655c"></a>
+<a id="orgf228ffc"></a>
 
 ### Lancaster Repeater
 
@@ -194,7 +194,7 @@ Get back to Gunsmith and rob him.
 In the basement, you will find Lancaster Repeater.
 
 
-<a id="org9f62f33"></a>
+<a id="orge30e6ae"></a>
 
 ### Double Action Revolver
 
@@ -204,7 +204,7 @@ This is also available as a task with Sean.
 You may visit the house later and get the second revolver.
 
 
-<a id="org02dc6c3"></a>
+<a id="org27eabd8"></a>
 
 ### Bolt Action Rifle
 
@@ -223,7 +223,7 @@ There are two ways to get this rifle as early as in chapter 2.
     Once you have killed him (or knocked him), pick the rifle.
 
 
-<a id="org8c49755"></a>
+<a id="org893488e"></a>
 
 ### Rare Shotgun (Double Barrel Shotgun)
 
@@ -234,14 +234,14 @@ Kill him when he eventually come out and pick the shotgun.
 He also holds the other half of a map leading to a unique weapon.
 
 
-<a id="orgb5a8eca"></a>
+<a id="orgbb7720d"></a>
 
 ### Rolling Block Rifle
 
 While, the free version of this gun is available later in Chapter 3 at the end of the mission [Magicians for Sport](https://reddead.fandom.com/wiki/Magicians_for_Sport), you can still buy the gun from any Gunsmith after completing the mission [Pouring Forth Oil](https://reddead.fandom.com/wiki/Pouring_Forth_Oil_I) (see this link [this link](https://holdtoreset.com/how-to-get-the-rare-rolling-block-rifle-in-red-dead-redemption-2/).)
 
 
-<a id="org0629aee"></a>
+<a id="org08ba49c"></a>
 
 ### Off-hand holster
 
@@ -250,7 +250,7 @@ Select ****Reinforced Equipment**** -> ****Master Hunter**** -> ****Master Hunte
 From now onward, you can use an off-hand revolvers and pistols.
 
 
-<a id="org30bff46"></a>
+<a id="org226bf9c"></a>
 
 ## Get the Legend of the East satchel
 
@@ -263,17 +263,17 @@ Tonics and alcohol have the regular and opened variants, which are stored separa
 Note this does not apply to ammunition, which has separate in-game challenges to complete, e.g. Weapon Master.
 I recommend buying only required number of tonics because they are expensive and can still be looted from bodies&#x2013;bounty hunters are a good source.
 
-You can slightly speed up the process of collecting perfect pelts if you get the legendary Buck Antler trinket (see [next section](#org53c1869)).
+You can slightly speed up the process of collecting perfect pelts if you get the legendary Buck Antler trinket (see [next section](#org3aed4f3)).
 
-<a id="org53c1869"></a>
+<a id="org3aed4f3"></a>
 
 
-<a id="orgcffd28d"></a>
+<a id="org83bd100"></a>
 
 ## Get trinkets: Buck Antler and Elk Antler
 
 
-<a id="orgfd060c9"></a>
+<a id="org2ccc594"></a>
 
 ### Buck Antler Trinket
 
@@ -287,7 +287,7 @@ You should bring Bolt Action Rifle or Rolling Block Rifle and equip it with Expr
 It's more convenient in Chapter 2 because the van der Linde gang is located near *Valentine*, which is closer to Strawberry, in oppose to Rhodes later in Chapter 3.
 
 
-<a id="org5d2ff1d"></a>
+<a id="org9718b65"></a>
 
 ### Elk Antler Trinket
 
@@ -295,7 +295,7 @@ This is also a handful trinket, especially in the early progression.
 It increases the value of looted money by 10 %.
 
 
-<a id="org1a84f06"></a>
+<a id="orgdf1d11f"></a>
 
 ## Use Valerian Root tonic
 
@@ -307,7 +307,7 @@ Two locations I know of are:
 -   Old car wreck (see how to find hidden gold bars)
 
 
-<a id="orge45a702"></a>
+<a id="org926e037"></a>
 
 ## Get Miner Hat and Wide-Blade Knife
 
@@ -327,7 +327,7 @@ Once you have got inside, follow the path to the right where you should see a de
 Take the Wide-Blade Knife and pick the Miner Hat next to the body.
 
 
-<a id="org4f44d70"></a>
+<a id="org5ef17b1"></a>
 
 ## The Pearson's Scout Jacket
 
@@ -353,12 +353,12 @@ On interaction Pearson should request an item: a rabbit for his special soup.
 After completing this mission, Arthur should receive a very rare and unique Scout Jacket.
 
 
-<a id="orge32c202"></a>
+<a id="orgc1ed05b"></a>
 
 # A few tips
 
 
-<a id="org6b00aac"></a>
+<a id="org339cbc4"></a>
 
 ## Horse Revivers
 
@@ -367,7 +367,7 @@ Remember, if your horse die, you will lose him/her permanently.
 Make sure you also save the game regularly.
 
 
-<a id="org009d04c"></a>
+<a id="org7393be9"></a>
 
 ## Increase capacity for ammunition
 
@@ -384,10 +384,10 @@ You could try to use [this glitch](https://www.youtube.com/watch?v=mOjaUmTskqs) 
 I found [this video](https://www.youtube.com/watch?v=bBODf1cqHK0&t=427s) of a guy who did it without any glitch.
 The author chose an excellent route to make it doable within less than 13 minutes.
 
-<a id="org812795e"></a>
+<a id="org87741f0"></a>
 
 
-<a id="org80479a6"></a>
+<a id="org6a10cfd"></a>
 
 ## Train robbery
 
@@ -419,7 +419,7 @@ It's important you apply a bandanna as well swap outfit.
 It turns out other travellers might sometimes recognise Arthur after one of the previous robberies, although that never happened to me. 
 
 
-<a id="orgc775713"></a>
+<a id="orgf3eb28c"></a>
 
 ## Talismans and Trinkets
 
@@ -449,12 +449,12 @@ While any will do, I would suggest [Fauna of America Card](https://reddead.fando
 
 The easiest way to obtain remaining items like special jewellery is to rob trains.
 It is possible to do that without a bounty, however Arthur still gets massive low honour after each robbery.
-You have to buy a ticket to *Annesburg* and from there continue until the train leaves the town (see [this video](https://www.youtube.com/watch?v=_UANnDH1oh0&t=133s) and my collected clues in the [previous section](#org812795e)).
+You have to buy a ticket to *Annesburg* and from there continue until the train leaves the town (see [this video](https://www.youtube.com/watch?v=_UANnDH1oh0&t=133s) and my collected clues in the [previous section](#org87741f0)).
 Note you might need to rob more than one train to get required items.
 As a side note, you may simultaneously do the Rank 10 of the [Bandit challenges](https://reddead.fandom.com/wiki/Bandit_Challenges), which requires 5 train robberies.
 
 
-<a id="org7744343"></a>
+<a id="org4324818"></a>
 
 ## Hunting perfect pelts from cougars and panthers
 
@@ -478,7 +478,7 @@ However, I don't recommend it because it's easy to miss the perfect shot.
 A bow with Improved Arrows is also a good weapon.
 
 
-<a id="orgba32434"></a>
+<a id="orgf2a82e9"></a>
 
 ## Fishing
 
@@ -499,7 +499,7 @@ Make sure to stop pulling fishing pole and applying any pressure.
 Then continue as usual.
 
 
-<a id="org5e9ad01"></a>
+<a id="org5f23f09"></a>
 
 ## Honour
 
@@ -518,7 +518,7 @@ Some other random events:
 Later in the game let borrowers keep debts and you greatly improve Arthur's honour.
 
 
-<a id="orgffcb6f9"></a>
+<a id="orgcb0adca"></a>
 
 ## Other general tips
 
@@ -561,46 +561,47 @@ Link to the second part.
 Link to the first part
 
 
-<a id="orgc9d0758"></a>
+<a id="org4ed2d0f"></a>
 
 # End game and things to do before the end of Chapter 6 (Spoilers)
 
 Be careful to proceed if you are going through the story mode for the first time and are still in one of the early chapters.
 I think you will be safe to come back when you approach one of the final mission in Chapter 6: [*My Last Boy*](https://reddead.fandom.com/wiki/My_Last_Boy).
 
-****<span style="color: red">Spoilers start here!</span>****
+<details>
+<summary><span style="color: red; font-weight: bold;">!!! Spoilers start here !!!</span></summary>
 
 Whatever needs to be completed must be completed after [*My Last Boy*](https://reddead.fandom.com/wiki/My_Last_Boy), at last, before the two final missions are triggered, that is [*Our Best Selves*](https://reddead.fandom.com/wiki/Our_Best_Selves) followed by [*Red Dead Redemption*](https://reddead.fandom.com/wiki/Red_Dead_Redemption_(mission)).
 This is the last time players can freely control Arthur in the world.
 
 If you did the story before, you already know players lose certain things mainly horses, golds bars, tonics and cash.
 However, you can save and pass cash to John.
-This requires a trick with [Aberdeen Pig Farm](#orgc3ac1ff).
+This requires a trick with [Aberdeen Pig Farm](#org8bcb46b).
 If you plan to do so, do not spend too much on things you cannot sell.
 Here's a [link](https://www.reddit.com/r/reddeadredemption/comments/ubf5ml/what_carries_over_from_arthur_to_john_in_the/) that explain what gets passed to John.
 
 
-<a id="org2229a95"></a>
+<a id="org6071b46"></a>
 
 ## Cash and valuable items
 
 Make sure you go to a fence and sell everything valuable s.a. gold bars before the last two missions are triggered (the [link](https://www.reddit.com/r/reddeadredemption/comments/ubf5ml/what_carries_over_from_arthur_to_john_in_the/)).
-Then save money for the upcoming Epilogue (see [the last spoiler](#orgc3ac1ff)).
+Then save money for the upcoming Epilogue (see [the last spoiler](#org8bcb46b)).
 If you have triggered the mission, just leave the game and come back so the progress is not saved because `Save Game` option is locked during missions.
 
 
-<a id="orgaf9b0b9"></a>
+<a id="org6a51dd3"></a>
 
 ## Horses
 
 Yes, you lose all horses and the one you ride on during the last mission gets killed.
-Since it's possible to pass cash to John (see [the last spoiler](#orgc3ac1ff)), you may consider selling expensive horses to either a stabler or Clive Davies, whoever gives higher price.
+Since it's possible to pass cash to John (see [the last spoiler](#org8bcb46b)), you may consider selling expensive horses to either a stabler or Clive Davies, whoever gives higher price.
 If I am not mistaken, Clive would pay more for wild horses, such as white Arabian.   
 In turns out you cannot sell the first horse we get in Chapter 2.
 Hence, he is ideal to sacrifice in the last mission.
 
 
-<a id="org0db317d"></a>
+<a id="org6b8b897"></a>
 
 ## Satchels
 
@@ -608,7 +609,7 @@ Let Pearson craft all the extra satchels.
 In Epilogue, the satchels will only be available at fence.
 
 
-<a id="orgbba1c36"></a>
+<a id="orga9bca85"></a>
 
 ## Four variants of the end of Chapter 6
 
@@ -620,10 +621,10 @@ The former decision is the last chance for players to rise Arthur's honour.
 The boost is significant and can be decisive.
 In both cases Arthur eventually dies trying to achieve whatever goal he has decided on.
 
-<a id="orgc3ac1ff"></a>
+<a id="org8bcb46b"></a>
 
 
-<a id="org4281ea3"></a>
+<a id="orgf7fb960"></a>
 
 ## How to pass Arthur's cash to John
 
@@ -641,5 +642,5 @@ However, I'd still quote the author here for convenience:
 > So then you're robbing a train, drama happens, Arthur dies and John drives his wagon to Pronghorn Ranch.
 > After all that, return to the Aberdeen Pig Farm as John, and retrieve the money from behind the painting.
 
-Link to the first part.
+</details>
 
